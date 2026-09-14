@@ -1,0 +1,21 @@
+.body-wrapper {
+    margin: 0;
+    padding: 0;
+    background-color: #f8fafc; /* Slate 50 */
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header {
+    background-color: #ffffff;
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e0e8f3;
+    box-sizing: border-box;
+}
